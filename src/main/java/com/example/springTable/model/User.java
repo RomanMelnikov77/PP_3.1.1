@@ -13,7 +13,7 @@ public class User {
     private int id;
     @Column(name = "name")
     private String name;
-    @Column(name = "secondName")
+    @Column(name = "second_name")
     private String secondName;
     @Column(name = "age")
     private int age;
